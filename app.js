@@ -2,7 +2,7 @@
 // How to print message in Js
 
 var b = "Hello SMIT Students"
-console.log("This is our 1st class of js")
+console.log("This is our 1st class of js and new project")
 
 // Variables , var ,let, const
 var a = "Sylani ka Pakistan"
