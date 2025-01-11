@@ -9,9 +9,8 @@ var a = "Sylani ka Pakistan"
 console.log(a+ " " +b)
 
 var message1 = "<h3>Hello world in the web page<h3>"
-var message2 = "<h2>saylani ke JS ke class chal rhi hay yahan</h2>"
+var message2 = "<h2>saylani ke JS ke class chal rhi hay yahan aur online bi chal rahi hain</h2>"
 var message3 = "<h1>Road sary bndh hay han. jo SMIT Agaya usko shout out</h1>"
-
 document.write(message1+ "<hr>" +message2+ "<hr>" +message3)
 
 //confirm("Do you want to proceed more?")
